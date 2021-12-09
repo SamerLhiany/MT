@@ -14,27 +14,18 @@ const Footer = () => {
                 <div className="footer__content__logo">
                     <div className="logo">
                         <img src={logo} alt="" />
-                        <Link to="/">tMovies</Link>
+                        <Link to="/">2021</Link>
                     </div>
                 </div>
                 <div className="footer__content__menus">
+                
                     <div className="footer__content__menu">
-                        <Link to="/">Home</Link>
-                        <Link to="/">Contact us</Link>
-                        <Link to="/">Term of services</Link>
-                        <Link to="/">About us</Link>
+                    There’s always an exciting new movie coming out that we all want to see, right !?     
+                      MT puts the newest HD movie previews in your hands. Browse trailers, clips, and featurettes for the biggest Hollywood blockbusters and independent cinema .
+
+
                     </div>
-                    <div className="footer__content__menu">
-                        <Link to="/">Live</Link>
-                        <Link to="/">FAQ</Link>
-                        <Link to="/">Premium</Link>
-                        <Link to="/">Pravacy policy</Link>
-                    </div>
-                    <div className="footer__content__menu">
-                        <Link to="/">You must watch</Link>
-                        <Link to="/">Recent release</Link>
-                        <Link to="/">Top IMDB</Link>
-                    </div>
+                  
                 </div>
             </div>
         </div>

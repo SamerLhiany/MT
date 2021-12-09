@@ -37,7 +37,8 @@ button {
 }
 
 .btn.small {
-    border-width: 2px;
-    padding: 0.25rem 1.5rem;
+    border-width: 3px;
+    border-color: rgba($color: #ffffff, $alpha: 0.5);
+    padding: 0.45rem 1.0rem;
     font-size: 1rem;
 }
