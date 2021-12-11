@@ -1,5 +1,18 @@
 @use "../../scss/" as *;
 
+/* Footer */
+#main-footer {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: #444;
+    color: #fff;
+    padding: 0.5rem;
+    margin-top: 1.8rem;
+  }
+
 .footer {
     position: relative;
     padding: 6rem 2rem;
